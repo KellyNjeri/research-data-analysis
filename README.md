@@ -1,7 +1,8 @@
 📊 Research Data Analysis Project
 This project provides a comprehensive exploration and analysis of a dataset related to academic researchers. It aims to uncover patterns in research behavior, grant distribution, and academic output using statistical methods, machine learning models, and visualizations.
 
-🧠 Project Objectives
+Project Objectives
+
 Summarize and explore dataset features through descriptive statistics.
 
 Analyze relationships between variables using statistical tests.
@@ -10,7 +11,8 @@ Apply machine learning models to predict research outcomes.
 
 Visualize key insights to communicate findings effectively.
 
-📁 Project Structure
+ Project Structure
+ 
 Data: Raw and processed datasets.
 
 Notebooks: Step-by-step Jupyter analysis.
@@ -20,6 +22,7 @@ Visuals: All plots and graphs.
 Scripts: Python files with reusable functions and models.
 
 🔍 Summary of Analyses
+
 Descriptive Statistics
 Calculated mean, median, and standard deviation for all numerical variables.
 
@@ -46,6 +49,7 @@ Investigated math score differences between grant recipients and non-recipients.
 Evaluated publication differences between PhD and Master's degree holders.
 
 ANOVA (Analysis of Variance)
+
 Tested if average years of experience differ by research field.
 
 Compared math scores across different education levels.
@@ -71,7 +75,8 @@ Encoded categorical variables such as education level into numerical formats.
 
 Created derived variables for deeper statistical modeling.
 
-🤖 Machine Learning Models:
+MACHINE LEARNING MODELS
+
 Logistic Regression
 Built a classification model to predict the likelihood of receiving a research grant based on academic and demographic factors.
 
