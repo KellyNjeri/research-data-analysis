@@ -33,7 +33,7 @@ This project uses Python and Jupyter Notebook to analyze research-related data w
 
 ## 📚 Tools & Libraries
 
-- Python 3.
+- Python 3.x
 - Jupyter Notebook
 - Pandas
 - NumPy
@@ -41,3 +41,4 @@ This project uses Python and Jupyter Notebook to analyze research-related data w
 - Seaborn
 - SciPy
 - Statsmodels
+-scikit-learn
